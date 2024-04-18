@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=alack_cookiecutter_1_01_audit
+POSTGRES_USER=efdlKcsrHnNBiDKnHpCYcZzfczcOPtdU
+POSTGRES_PASSWORD=u6ynoduGfA9GlRQpKMCtACgS4cfHNDckPcsTyF5BsBcyVxcAb925ugeyZXuZn9js
